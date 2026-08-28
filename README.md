@@ -3,7 +3,7 @@
 Bring images and GIFs to your comments and to everyone on YouTube with YTMC.
 
 ## Version
-1.0.1
+1.0.2
 
 ## Supported Browsers
 - Chrome
@@ -18,5 +18,3 @@ Bring images and GIFs to your comments and to everyone on YouTube with YTMC.
 3. Enable Developer Mode if required.
 4. Load the extracted folder as an unpacked extension.
 5. Open YouTube and use the Image and GIF buttons in comments.
-
-YTMC has no settings page. Configuration is stored in `config.js`.
