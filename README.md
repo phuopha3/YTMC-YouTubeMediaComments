@@ -6,13 +6,13 @@ Bring images and GIFs to your comments and to everyone on YouTube with YTMC.
 1.0.2
 
 ## Supported Browsers
-- Chrome
+- Chrome: Not available
 - Microsoft Edge: https://microsoftedge.microsoft.com/addons/detail/ytmc-%E2%80%94-youtube-media-comm/apgpdbhnpoadfcjagegddapccdjidola
-- Opera:
+- Opera: Awaiting moderation
 - Firefox (Firefox package): https://addons.mozilla.org/vi/firefox/addon/ytmc-youtube-media-comments/
-- Other Chromium-based browsers
+- Other Chromium-based browsers:...
 
-## Installation
+## Manual Installation
 1. Extract the ZIP file.
 2. Open your browser's extension management page.
 3. Enable Developer Mode if required.
